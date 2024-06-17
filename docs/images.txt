@@ -1,1 +1,1 @@
-registry.cn-chengdu.aliyuncs.com/dockerip/github-flask-api
+registry.cn-chengdu.aliyuncs.com/dockerip/github-flask-api:latest
