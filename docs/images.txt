@@ -1,2 +1,1 @@
-镜像地址1
-镜像地址2
+registry.cn-chengdu.aliyuncs.com/dockerip/github-flask-api
